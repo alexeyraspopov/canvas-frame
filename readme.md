@@ -5,10 +5,6 @@ Canvas rendering cycle
 ## Install
 
 ```bash
-$ npm install canvas-frame
-```
-
-```bash
 $ component install alexeyraspopov/canvas-frame
 ```
 
