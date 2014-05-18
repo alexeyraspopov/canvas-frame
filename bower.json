@@ -1,6 +1,6 @@
 {
   "name": "canvas-frame",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Canvas rendering cycle",
   "license": "MIT",
   "main": "index.js",
