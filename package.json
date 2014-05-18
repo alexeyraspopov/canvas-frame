@@ -1,0 +1,8 @@
+{
+  "name": "canvas-frame",
+  "version": "0.0.1",
+  "description": "Canvas rendering cycle",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Alexey Raspopov (https://github.com/alexeyraspopov)"
+}
