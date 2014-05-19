@@ -18,7 +18,11 @@ TBD
 
 ## Usage
 
-TBD
+	frame({
+		context: canvas.getContext('2d'),
+		update: updateFunction,	
+		render: renderFunction
+	})();
 
 ## License
 
